@@ -1,0 +1,43 @@
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+.job-option {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.job-option input[type="radio"] {
+  margin-right: 10px;
+}
+
+.job-description {
+  margin-left: 10px;
+}
+
+.large-text-wrap {
+  inline-size: 500px;
+}
+
+/* TODO: Add your primary and secondary styling below! */
+
+.button {
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  border-width: 0;
+  height: 30px;
+  display: inline-block;
+}
+.primary-button {
+  background-color: #2ea44f;
+  color: white;
+}
+
+.secondary-button {
+  background-color: fafbfc;
+}

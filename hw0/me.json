@@ -1,0 +1,10 @@
+{
+  "name": {
+    "first": "Aron",
+    "last": "Yang"
+  },
+  "fromWisconsin": false,
+  "numCredits": 0,
+  "major": "Data Science",
+  "interests": ["Programming", "Tea", "Stoicism"]
+}
